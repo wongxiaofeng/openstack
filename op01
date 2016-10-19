@@ -1,0 +1,12 @@
+###day 1
+
+***
+#####目标
+* 搭建好openstack环境
+* 阅读openstack essentials
+
+#####过程
+* 我使用的是macbook，网上有人讲openstack会和网络的bridge设置，网络流行的安装方式是用vmware+ubuntu，之前尝试使用parallels+centos失败了，所以现在也使用vmware+ubuntu的方式来安装，出现问题好排查，parallels+centos的方式在自己熟悉后再尝试。
+
+* 下载vmware
+
